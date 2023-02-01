@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x043A129F8DB51d8208498E139077d51a6f64f5b2",
+  "SCAN_LINK": "https://etherscan.com/token/0x043A129F8DB51d8208498E139077d51a6f64f5b2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "KUDOS Coins",
+  "SYMBOL": "KUDOS",
+  "MAX_SUPPLY": 1000000,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://evium.org",
+  "SHOW_BACKGROUND": true
+}
